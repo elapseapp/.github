@@ -4,7 +4,7 @@
 
 Elapse turns the hours you actually work into clean, organized records — with almost no manual bookkeeping. It runs as both a main window and a menu-bar app, tracks the apps and windows you use automatically, lays your day out on a visual color-coded timeline, and can push tracked time straight to Jira issues as worklogs. Your data stays on your Mac.
 
-![Activities View](app-activities.png)
+![Activities View](https://github.com/elapseapp/.github/blob/main/app-activities.png)
 
 ## Highlights
 
